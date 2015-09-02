@@ -1,6 +1,6 @@
 # douban
 
-这是一个抓取豆瓣Top25o书籍的项目
+这是一个抓取豆瓣Top25o书籍相关信息的项目
 
 环境：ubuntu14.04 + scrapy1.03 + python 2.7
 
